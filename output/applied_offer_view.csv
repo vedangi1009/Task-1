@@ -1,0 +1,2 @@
+eventId,mtx_container_name,mtx_sys_ver,mtx_ext_ver,appliedCatalogItemIndex,productOfferExternalId,productOfferExternalOwnerId,productOfferId,productOfferOwnerId,productOfferVersion,purchasedOfferAttr,usageQuantity,usageQuantityUnit
+IFF0:2:52:4398046712382,MtxEventAppliedOffer,5243,16,0,Grant_GUBalance_226_OFFER,eh_testgroup2,226,0-2-5-4398046566158,0,"{'mtx_container_name': 'TefPurchasedItemExtension', 'mtx_sys_ver': 5243, 'mtx_ext_ver': 16, 'productTaxCategory': 'Services_Telco', 'topUpAmount': 10.0}",1.0,0

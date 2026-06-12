@@ -1,0 +1,2 @@
+eventId,mtx_container_name,mtx_sys_ver,mtx_ext_ver,amount,balanceClassId,balanceEndTime,balanceResourceId,balanceStartTime,balanceTemplateId,debtBalanceType,flags,grossAmountAfter,grossAmountBefore
+IFF0:2:52:4398046712382,MtxBalanceUpdate,5243,16,-10.0,978,9999-12-31T23:59:59.000000Z,1,2022-11-18T14:10:01.000000+01:00,21124,not_debt,33,-10.0,0.0

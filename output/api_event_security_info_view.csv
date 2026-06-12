@@ -1,0 +1,2 @@
+eventId,mtx_container_name,mtx_sys_ver,mtx_ext_ver,clientIpAddress,clientSessionId,clientUserName
+IFF0:2:52:4398046712382,MtxApiEventSecurityInfo,5243,16,10.1.21.100,9F8F9ACF648E7D47A8CDE29755CD7DA0,rsgateway:ANONYMOUS_USER

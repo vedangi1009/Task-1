@@ -1,0 +1,8 @@
+eventId,catalogItemId,parameterDefnId,parameterName,valueType,value
+IFF0:2:52:4398046712382,139,40,paymentUseCase,string,NULL
+IFF0:2:52:4398046712382,139,39,paymentChannel,string,NULL
+IFF0:2:52:4398046712382,139,42,paymentRequestId,string,NULL
+IFF0:2:52:4398046712382,139,44,paymentTransactionId,string,NULL
+IFF0:2:52:4398046712382,139,49,voucherSerialNumber,string,NULL
+IFF0:2:52:4398046712382,139,50,voucherTenantId,string,NULL
+IFF0:2:52:4398046712382,139,51,creditorIBAN,string,NULL

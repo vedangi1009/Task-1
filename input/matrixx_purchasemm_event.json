@@ -1,0 +1,249 @@
+{
+    "mtx_container_name": "MtxPurchaseEvent",
+    "mtx_sys_ver": 5243,
+    "mtx_ext_ver": 16,
+    "apiEventData": {
+        "mtx_container_name": "TefApiEventDataExtension",
+        "mtx_sys_ver": 5243,
+        "mtx_ext_ver": 16
+    },
+    "apiEventSecurityInfo": {
+        "mtx_container_name": "MtxApiEventSecurityInfo",
+        "mtx_sys_ver": 5243,
+        "mtx_ext_ver": 16,
+        "clientIpAddress": "10.1.21.100",
+        "clientSessionId": "9F8F9ACF648E7D47A8CDE29755CD7DA0",
+        "clientUserName": "rsgateway:ANONYMOUS_USER"
+    },
+    "appliedCatalogItemArray": [
+        {
+            "mtx_container_name": "MtxEventAppliedCatalogItem",
+            "mtx_sys_ver": 5243,
+            "mtx_ext_ver": 16,
+            "catalogItemExternalId": "Grant_GUBalance_139",
+            "catalogItemId": 139,
+            "catalogItemParameterArray": [
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 40,
+                    "parameterName": "paymentUseCase",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 39,
+                    "parameterName": "paymentChannel",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 42,
+                    "parameterName": "paymentRequestId",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 44,
+                    "parameterName": "paymentTransactionId",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 49,
+                    "parameterName": "voucherSerialNumber",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 50,
+                    "parameterName": "voucherTenantId",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                },
+                {
+                    "mtx_container_name": "MtxEventParameterInfo",
+                    "mtx_sys_ver": 5243,
+                    "mtx_ext_ver": 16,
+                    "isDefaultValue": true,
+                    "parameterDefnId": 51,
+                    "parameterName": "creditorIBAN",
+                    "value": {
+                        "mtx_container_name": "MtxParameterStringValue",
+                        "mtx_sys_ver": 5243,
+                        "mtx_ext_ver": 16,
+                        "value": "NULL"
+                    },
+                    "valueType": "string"
+                }
+            ],
+            "catalogItemTemplateAttr": {
+                "mtx_container_name": "MtxTemplateAttr",
+                "mtx_sys_ver": 5243,
+                "mtx_ext_ver": 16
+            }
+        }
+    ],
+    "appliedOfferArray": [
+        {
+            "mtx_container_name": "MtxEventAppliedOffer",
+            "mtx_sys_ver": 5243,
+            "mtx_ext_ver": 16,
+            "appliedCatalogItemIndex": 0,
+            "productOfferExternalId": "Grant_GUBalance_226_OFFER",
+            "productOfferExternalOwnerId": "eh_testgroup2",
+            "productOfferId": 226,
+            "productOfferOwnerId": "0-2-5-4398046566158",
+            "productOfferVersion": 0,
+            "purchasedOfferAttr": {
+                "mtx_container_name": "TefPurchasedItemExtension",
+                "mtx_sys_ver": 5243,
+                "mtx_ext_ver": 16,
+                "productTaxCategory": "Services_Telco",
+                "topUpAmount": 10.0
+            },
+            "usageQuantity": 1.0,
+            "usageQuantityUnit": 0
+        }
+    ],
+    "balanceUpdateArray": [
+        {
+            "mtx_container_name": "MtxBalanceUpdate",
+            "mtx_sys_ver": 5243,
+            "mtx_ext_ver": 16,
+            "amount": -10.0,
+            "balanceClassId": 978,
+            "balanceEndTime": "9999-12-31T23:59:59.000000Z",
+            "balanceResourceId": 1,
+            "balanceStartTime": "2022-11-18T14:10:01.000000+01:00",
+            "balanceTemplateId": 21124,
+            "debtBalanceType": "not_debt",
+            "flags": 33,
+            "grossAmountAfter": -10.0,
+            "grossAmountBefore": 0.0
+        }
+    ],
+    "chargeList": [
+        {
+            "mtx_container_name": "MtxEventCharge",
+            "mtx_sys_ver": 5243,
+            "mtx_ext_ver": 16,
+            "amount": -10.0,
+            "appliedOfferIndex": 0,
+            "balanceUpdateIndex": 0,
+            "impactSource": "product_offer",
+            "paymentType": 1,
+            "updateType": 3,
+            "usageQuantity": 1.0,
+            "usageQuantityUnit": 0
+        }
+    ],
+    "deleteCode": 2,
+    "eventId": "IFF0:2:52:4398046712382",
+    "eventTime": "2022-11-18T14:10:01.240899+01:00",
+    "eventTypeArray": [
+        4
+    ],
+    "flags": 5,
+    "initiatorExternalId": "eh_testgroup2",
+    "initiatorId": "0-2-5-4398046566158",
+    "initiatorPrimaryUserExternalId": "eh_testuser2",
+    "initiatorPrimaryUserId": "0-2-5-4398046566157",
+    "initiatorType": "group",
+    "offerInfoArray": [
+        {
+            "mtx_container_name": "MtxPurchaseEventOfferInfo",
+            "mtx_sys_ver": 5243,
+            "mtx_ext_ver": 16,
+            "catalogItemExternalId": "Grant_GUBalance_139",
+            "catalogItemId": 139,
+            "catalogItemTemplateAttr": {
+                "mtx_container_name": "MtxTemplateAttr",
+                "mtx_sys_ver": 5243,
+                "mtx_ext_ver": 16
+            },
+            "externalId": "Grant_GUBalance_226_OFFER",
+            "isPendingActivation": false,
+            "offerId": 226,
+            "offerLifecycleProfileId": 1,
+            "offerStatusClass": "class_active",
+            "offerStatusValue": 1,
+            "offerVersion": 0,
+            "preActiveState": false,
+            "purchasedOfferAttr": {
+                "mtx_container_name": "TefPurchasedItemExtension",
+                "mtx_sys_ver": 5243,
+                "mtx_ext_ver": 16,
+                "productTaxCategory": "Services_Telco",
+                "topUpAmount": 10.0
+            },
+            "resourceId": 0
+        }
+    ],
+    "primaryEventAttr": {
+        "mtx_container_name": "TefPrimaryEventExtension",
+        "mtx_sys_ver": 5243,
+        "mtx_ext_ver": 16,
+        "tefAccount": "eh_testgroup2"
+    },
+    "streamCursor": "00000000000231376491:00000",
+    "taxLocation": "DEU_P",
+    "taxStatus": 1,
+    "tenantId": "SP910",
+    "walletId": "0-2-5-4398046566159",
+    "walletOwnerExternalId": "eh_testgroup2",
+    "walletOwnerId": "0-2-5-4398046566158",
+    "walletOwnerType": "group"
+}

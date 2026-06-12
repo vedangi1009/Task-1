@@ -1,0 +1,2 @@
+mtx_container_name,mtx_sys_ver,mtx_ext_ver,deleteCode,eventId,eventTime,flags,initiatorExternalId,initiatorId,initiatorPrimaryUserExternalId,initiatorPrimaryUserId,initiatorType,streamCursor,taxLocation,taxStatus,tenantId,walletId,walletOwnerExternalId,walletOwnerId,walletOwnerType
+MtxPurchaseEvent,5243,16,2,IFF0:2:52:4398046712382,2022-11-18T14:10:01.240899+01:00,5,eh_testgroup2,0-2-5-4398046566158,eh_testuser2,0-2-5-4398046566157,group,00000000000231376491:00000,DEU_P,1,SP910,0-2-5-4398046566159,eh_testgroup2,0-2-5-4398046566158,group
